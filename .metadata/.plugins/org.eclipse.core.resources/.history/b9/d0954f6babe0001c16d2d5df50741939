@@ -1,0 +1,17 @@
+'''
+Created on 31 May 2022
+
+@author: estudiante
+'''
+numEntradas=int(input("Introduce el numero de entradas: "))
+dia=input("Introduce el dia (L,M,X,J,V,S,D): ")
+tarjeta=input("Tienes tarjeta CineJacaranda? (S/N): ")
+
+
+
+
+
+
+
+
+

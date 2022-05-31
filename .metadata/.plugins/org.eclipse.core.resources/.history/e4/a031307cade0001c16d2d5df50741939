@@ -1,0 +1,16 @@
+'''
+Created on 31 May 2022
+
+@author: estudiante
+'''
+num=0
+minimo=9999999999
+while num>=0:
+    num=int(input("Introduce un numero: "))
+    if num<minimo:
+        minimo=num
+
+
+
+
+

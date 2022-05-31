@@ -1,0 +1,21 @@
+'''
+Created on 31 May 2022
+
+@author: estudiante
+'''
+num=int(input("Introduce un numero: "))
+cadena=""
+num2=num
+for i in range(2,num):
+    while num2%i==0:
+        cadena=str(i)+" "
+        num2=num2/i
+    
+print(cadena)
+
+
+
+
+
+
+

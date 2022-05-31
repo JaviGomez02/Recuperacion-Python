@@ -1,0 +1,7 @@
+'''
+Created on 30 May 2022
+
+@author: estudiante
+'''
+num=int(input("Introduce un numero: "));
+if ()
