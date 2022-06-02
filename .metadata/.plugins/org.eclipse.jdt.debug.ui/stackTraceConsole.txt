@@ -1,0 +1,2 @@
+for i in range(0, 3):
+            cadena1=cadena1+cadena[i]

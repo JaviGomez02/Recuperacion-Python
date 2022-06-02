@@ -1,0 +1,11 @@
+'''
+Created on 2 Jun 2022
+
+@author: estudiante
+'''
+def esChachi(cadena):
+    resultado=False
+    if len(cadena)>=8:
+        cadena1=""
+        cadena2=""
+        for i in range(0, )
