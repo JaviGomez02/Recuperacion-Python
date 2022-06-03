@@ -10,55 +10,79 @@ Ejercicio2|1653979889769438426|/home/estudiante/Documents/Dawn/Programación/Rec
 Ejercicio3|1653979892729471279|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio3.py
 Ejercicio4|1653979898113530937|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio4.py
 Ejercicio9|1654170965059984490|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio9.py
-Ejercicio10|1654172516059793940|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio10.py
+Ejercicio15|1654240119347759020|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio15.py
+Ejercicio14|1654239309593617708|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio14.py
+Ejercicio17|1654241268983196042|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio17.py
+Ejercicio16|1654240391762908760|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio16.py
+Ejercicio11|1654237751380335560|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio11.py
+Ejercicio10|1654237476937082477|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio10.py
+Ejercicio13|1654241377720704513|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio13.py
+Ejercicio12|1654238308307418792|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio12.py
 -- END DISKCACHE
 -- START DICTIONARY
-20
-8=Ejercicio5
-15=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio9.py
-6=Ejercicio6
-9=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio10.py
-2=Ejercicio7
-4=Ejercicio8
-18=Ejercicio1
-1=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio7.py
-5=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio6.py
-20=Ejercicio2
-3=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio8.py
-14=Ejercicio3
-12=Ejercicio4
-11=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio4.py
-7=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio5.py
-19=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio2.py
-13=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio3.py
-16=Ejercicio9
-17=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio1.py
-10=Ejercicio10
+34
+10=Ejercicio5
+21=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio9.py
+8=Ejercicio6
+11=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio10.py
+4=Ejercicio7
+1=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio12.py
+6=Ejercicio8
+28=Ejercicio1
+3=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio7.py
+30=Ejercicio2
+18=Ejercicio3
+16=Ejercicio4
+9=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio5.py
+17=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio3.py
+22=Ejercicio9
+27=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio1.py
+33=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio16.py
+13=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio14.py
+25=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio11.py
+7=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio6.py
+5=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio8.py
+15=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio4.py
+29=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio2.py
+31=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio15.py
+32=Ejercicio15
+14=Ejercicio14
+20=Ejercicio17
+23=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio13.py
+34=Ejercicio16
+26=Ejercicio11
+12=Ejercicio10
+19=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio17.py
+24=Ejercicio13
+2=Ejercicio12
 -- END DICTIONARY
 -- START TREE 1
-22
-a|0|
-b|0|
-cad|7|cadenaFinal!1^10#1*19@cadenaAux1!3^30#1*35@cadena!1^9#1*19@cadena!3^29#1*35@cadena!5^7#1*51@cadena!7^12#1*67@cadenaAux2!3^31#1*35@
-car|0|
-cod|1|codificar!9^7#5*82@
-com|2|compruebaB!3^17#5*34@compruebaA!3^6#5*34@
-con|1|contador!11^10#1*99@
-dia|1|dia!13^7#1*115@
-enc|2|encontrado1!3^32#1*35@encontrado2!3^33#1*35@
-esc|1|esChachi!15^17#5*130@
-esd|0|
-max|1|maximo!11^8#1*99@
-min|1|minimo!11^7#1*99@
-num|8|num!5^6#1*51@num!17^7#1*147@num!19^7#1*163@num!1^8#1*19@numEntradas!13^6#1*115@num!11^6#1*99@num2!5^8#1*51@num!7^6#1*67@
-pas|1|pasarMayuscula!15^6#5*130@
-pi|1|pi!7^10#1*67@
-pre|1|precio!13^9#1*115@
-rai|2|raiz!17^8#1*147@raizEntero!17^9#1*147@
-res|1|resto!1^13#5*19@
-sum|1|suma!19^8#1*163@
-tar|1|tarjeta!13^8#1*115@
-tot|1|total!11^9#1*99@
+25
+asc|1|ascii!1^13#5*19@
+cad|9|cadenaFinal!3^10#1*35@cadenaAux1!5^30#1*51@cadena!3^9#1*35@cadena!5^29#1*51@cadena!7^7#1*67@cadenaNueva!1^11#1*19@cadena!1^8#1*19@cadena!9^12#1*83@cadenaAux2!5^31#1*51@
+cod|1|codificar!11^7#5*98@
+com|2|compruebaB!5^17#5*50@compruebaA!5^6#5*50@
+con|2|convertirEntero!13^8#5*114@contador!15^10#1*131@
+dec|1|decodificar!11^17#5*98@
+dia|1|dia!17^7#1*147@
+eli|1|eliminarComentarios!19^7#5*162@
+enc|2|encontrado1!5^32#1*51@encontrado2!5^33#1*51@
+esc|1|esChachi!21^17#5*178@
+esp|1|esPalindroma!23^16#5*194@
+hor|1|horas!25^8#1*211@
+max|1|maximo!15^8#1*131@
+min|2|minutos!25^7#1*211@minimo!15^7#1*131@
+num|9|num!7^6#1*67@num!27^7#1*227@num!29^7#1*243@num!3^8#1*35@numCaracteres!31^6#5*258@numEntradas!17^6#1*147@num!15^6#1*131@num2!7^8#1*67@num!9^6#1*83@
+pas|2|pasarMayuscula!23^6#5*194@pasarMayuscula!21^6#5*178@
+pi|1|pi!9^10#1*83@
+pre|1|precio!17^9#1*147@
+rai|2|raiz!27^8#1*227@raizEntero!27^9#1*227@
+res|1|resto!3^13#5*35@
+seg|1|segundos!25^6#1*211@
+sum|2|suma!33^7#5*274@suma!29^8#1*243@
+tar|1|tarjeta!17^8#1*147@
+tot|1|total!15^9#1*131@
+val|1|valor!1^9#1*19@
 -- END TREE
 -- START TREE 2
 0

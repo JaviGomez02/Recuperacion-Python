@@ -1,0 +1,12 @@
+'''
+Created on 3 Jun 2022
+
+@author: estudiante
+'''
+
+def suma(cadena):
+    resultado=0
+    for i in range(0, len(cadena)):
+        
+
+

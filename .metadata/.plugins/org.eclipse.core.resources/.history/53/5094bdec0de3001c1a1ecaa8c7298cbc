@@ -1,0 +1,23 @@
+'''
+Created on 3 Jun 2022
+
+@author: estudiante
+'''
+
+def eliminarComentarios(cadena):
+    resultado=""
+    encontrado=False
+    for i in range(0, len(cadena)):
+        if i!=len(cadena)-1:
+            if cadena[i]=="/" and cadena[i+1]=="*":
+                encontrado=True
+            
+            if encontrado==False:
+                resultado=resultado+cadena[i]
+    
+            if cadena[i]=="*" and cadena[i+1]=="/":
+                encontrado=True
+    
+    return resultado
+
+print(eliminarComentarios("aaaa/*eee*/"))

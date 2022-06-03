@@ -1,0 +1,23 @@
+'''
+Created on 3 Jun 2022
+
+@author: estudiante
+'''
+
+def esPalindroma(cadena):
+    resultado=false
+    
+    
+    
+    return resultado
+    
+    
+    
+    
+
+
+
+
+
+
+

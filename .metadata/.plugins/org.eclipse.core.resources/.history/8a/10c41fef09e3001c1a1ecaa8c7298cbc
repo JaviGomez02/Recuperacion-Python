@@ -1,0 +1,24 @@
+'''
+Created on 3 Jun 2022
+
+@author: estudiante
+'''
+
+
+def convertirEntero(cadena):
+    resultado=""
+    for i in range(0,len(cadena)):
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+

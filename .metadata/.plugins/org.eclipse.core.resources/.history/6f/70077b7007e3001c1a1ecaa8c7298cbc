@@ -1,0 +1,17 @@
+'''
+Created on 3 Jun 2022
+
+@author: estudiante
+'''
+
+
+cadena=input("Introduce la cadena a cifrar: ")
+valor=int(input("Introduce el numero: "))
+
+cadenaNueva=""
+for i in range (0, len(cadena)):
+    
+
+
+
+

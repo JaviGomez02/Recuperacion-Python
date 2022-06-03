@@ -1,0 +1,21 @@
+'''
+Created on 3 Jun 2022
+
+@author: estudiante
+'''
+def numCaracteres(cadena, caracter):
+    contador=0
+    encontrado=False
+    for i in range(0, len(cadena)):
+        if cadena[i]!=caracter and encontrado:
+            contador+=1
+            
+            
+        if caracter==cadena[i]:
+            encontrado=True
+        
+
+    
+    return contador
+
+print(numCaracteres("hooh", "h"))
