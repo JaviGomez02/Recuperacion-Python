@@ -1,0 +1,14 @@
+'''
+Created on 3 Jun 2022
+
+@author: estudiante
+'''
+from random import random
+
+vector_numeros=[]
+
+for i in range (0,10):
+    vector_numeros.append(randint(0,10))
+
+
+

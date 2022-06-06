@@ -1,0 +1,13 @@
+'''
+Created on 6 Jun 2022
+
+@author: estudiante
+'''
+
+salir=False
+
+nombre=input("Introduce el nombre del alumno: ")
+edad=int(input("Introduce la edad del alumno: "))
+
+
+

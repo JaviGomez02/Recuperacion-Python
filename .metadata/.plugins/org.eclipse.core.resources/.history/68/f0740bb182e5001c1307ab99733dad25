@@ -1,0 +1,9 @@
+'''
+Created on 6 Jun 2022
+
+@author: estudiante
+'''
+mes=int(input("Introduce un mes: "))
+vector_dias=[31,28,31,30,31,30,31,31,30,31,30,31]
+
+print("El mes "+str(mes)+" tiene "+str(vector_dias[mes-1]))

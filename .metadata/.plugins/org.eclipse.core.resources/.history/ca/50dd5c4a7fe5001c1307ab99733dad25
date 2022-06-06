@@ -1,0 +1,8 @@
+'''
+Created on 6 Jun 2022
+
+@author: estudiante
+'''
+vector=[]
+for i in range (0, 10) and encontrado==False:
+    

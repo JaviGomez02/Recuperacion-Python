@@ -1,0 +1,11 @@
+'''
+Created on 6 Jun 2022
+
+@author: estudiante
+'''
+vector=[]
+encontrado=False
+for i in range (0, 10) and encontrado==False:
+    numero=int(input("Introduce un numero: "))
+    vector.append(numero)
+    if
