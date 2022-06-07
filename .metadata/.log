@@ -1141,3 +1141,6 @@ java.io.FileNotFoundException: /home/estudiante/Documents/Dawn/Programación/Rec
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+
+!ENTRY org.python.pydev.shared_core 4 4 2022-06-07 08:50:39.634
+!MESSAGE Info: Rebuilding internal caches: /home/estudiante/Documents/Dawn/Programación/Recuperación Python/.metadata/.plugins/org.eclipse.core.resources/.projects/Examenes/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
