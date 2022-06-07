@@ -1144,3 +1144,6 @@ java.io.FileNotFoundException: /home/estudiante/Documents/Dawn/Programación/Rec
 
 !ENTRY org.python.pydev.shared_core 4 4 2022-06-07 08:50:39.634
 !MESSAGE Info: Rebuilding internal caches: /home/estudiante/Documents/Dawn/Programación/Recuperación Python/.metadata/.plugins/org.eclipse.core.resources/.projects/Examenes/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2022-06-07 09:38:59.203
+!MESSAGE Info: Rebuilding internal caches: /home/estudiante/Documents/Dawn/Programación/Recuperación Python/.metadata/.plugins/org.eclipse.core.resources/.projects/Prueba2/com.python.pydev.analysis/AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
