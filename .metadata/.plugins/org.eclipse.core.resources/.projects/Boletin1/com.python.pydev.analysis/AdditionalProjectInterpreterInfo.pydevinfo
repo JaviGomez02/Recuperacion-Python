@@ -11,6 +11,7 @@ Ejercicio2|1653979889769438426|/home/estudiante/Documents/Dawn/Programación/Rec
 Ejercicio3|1653979892729471279|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio3.py
 Ejercicio4|1653979898113530937|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio4.py
 Ejercicio9|1654170965059984490|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio9.py
+Ejercicio25|1654513285551996562|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio25.py
 Ejercicio22|1654510928324140719|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio22.py
 Ejercicio21|1654509919087077696|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio21.py
 Ejercicio24|1654511245543532941|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio24.py
@@ -27,92 +28,97 @@ Ejercicio13|1654241377720704513|/home/estudiante/Documents/Dawn/Programación/Re
 Ejercicio12|1654238308307418792|/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio12.py
 -- END DISKCACHE
 -- START DICTIONARY
-48
-10=Ejercicio5
-23=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio9.py
-8=Ejercicio6
-11=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio10.py
-4=Ejercicio7
-32=Ejercicio20
-1=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio12.py
-6=Ejercicio8
-36=Ejercicio1
-3=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio7.py
-38=Ejercicio2
-20=Ejercicio3
-14=Ejercicio4
-9=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio5.py
-19=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio3.py
-24=Ejercicio9
-35=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio1.py
-29=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio23.py
-33=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio21.py
-41=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio16.py
-15=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio14.py
-17=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio18.py
-46=Ejercicio22
-34=Ejercicio21
-48=Ejercicio24
-30=Ejercicio23
-27=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio11.py
-7=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio6.py
-5=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio8.py
-13=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio4.py
-37=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio2.py
-47=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio24.py
-31=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio20.py
-45=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio22.py
-44=Ejercicio19
-18=Ejercicio18
-39=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio15.py
-40=Ejercicio15
-16=Ejercicio14
-22=Ejercicio17
-25=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio13.py
-42=Ejercicio16
-28=Ejercicio11
-12=Ejercicio10
-21=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio17.py
-26=Ejercicio13
-43=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio19.py
-2=Ejercicio12
+50
+25=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio9.py
+34=Ejercicio20
+3=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio12.py
+11=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio5.py
+37=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio1.py
+1=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio25.py
+35=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio21.py
+2=Ejercicio25
+43=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio16.py
+50=Ejercicio22
+36=Ejercicio21
+46=Ejercicio24
+32=Ejercicio23
+9=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio6.py
+39=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio2.py
+45=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio24.py
+33=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio20.py
+48=Ejercicio19
+20=Ejercicio18
+42=Ejercicio15
+18=Ejercicio14
+24=Ejercicio17
+27=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio13.py
+44=Ejercicio16
+30=Ejercicio11
+14=Ejercicio10
+23=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio17.py
+28=Ejercicio13
+4=Ejercicio12
+12=Ejercicio5
+10=Ejercicio6
+13=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio10.py
+6=Ejercicio7
+8=Ejercicio8
+38=Ejercicio1
+5=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio7.py
+40=Ejercicio2
+22=Ejercicio3
+16=Ejercicio4
+21=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio3.py
+26=Ejercicio9
+31=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio23.py
+17=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio14.py
+19=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio18.py
+29=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio11.py
+7=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio8.py
+15=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio4.py
+49=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio22.py
+41=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio15.py
+47=/home/estudiante/Documents/Dawn/Programación/Recuperación Python/Boletin1/Ejercicio19.py
 -- END DICTIONARY
 -- START TREE 1
-34
-alu|0|
-asc|1|ascii!1^13#5*19@
-cad|9|cadenaFinal!3^10#1*35@cadenaAux1!5^30#1*51@cadena!3^9#1*35@cadena!5^29#1*51@cadena!7^7#1*67@cadenaNueva!1^11#1*19@cadena!1^8#1*19@cadena!9^12#1*83@cadenaAux2!5^31#1*51@
-cod|1|codificar!11^7#5*98@
-com|2|compruebaA!5^6#5*50@compruebaB!5^17#5*50@
-con|2|contador!13^10#1*115@convertirEntero!15^8#5*130@
-cua|1|cuadrado!17^13#5*147@
-cub|1|cubo!17^14#5*147@
-dec|1|decodificar!11^17#5*98@
-dia|1|dia!19^7#1*163@
-eda|0|
-eli|1|eliminarComentarios!21^7#5*178@
-enc|2|encontrado1!5^32#1*51@encontrado2!5^33#1*51@
-esc|1|esChachi!23^17#5*194@
-esp|1|esPalindroma!25^16#5*210@
-hor|1|horas!27^8#1*227@
-max|1|maximo!13^8#1*115@
-mes|1|mes!29^6#1*243@
-min|2|minutos!27^7#1*227@minimo!13^7#1*115@
-nom|0|
-not|3|notaAlta!31^7#1*259@notaBaja!31^8#1*259@nota!31^13#5*259@
-num|10|num!7^6#1*67@numero!33^10#5*275@num!35^7#1*291@num!37^7#1*307@num!3^8#1*35@numCaracteres!39^6#5*322@numEntradas!19^6#1*163@num!13^6#1*115@num2!7^8#1*67@num!9^6#1*83@
-pas|2|pasarMayuscula!23^6#5*194@pasarMayuscula!25^6#5*210@
-pi|1|pi!9^10#1*83@
-pre|1|precio!19^9#1*163@
-rai|2|raiz!35^8#1*291@raizEntero!35^9#1*291@
-res|1|resto!3^13#5*35@
-sal|1|salir!33^8#1*275@
-seg|1|segundos!27^6#1*227@
-sum|3|suma!41^7#5*338@suma!37^8#1*307@suma!31^9#1*259@
-tar|1|tarjeta!19^8#1*163@
-tot|1|total!13^9#1*115@
-val|1|valor!1^9#1*19@
-vec|11|vector_inverso!43^8#1*355@vector!45^9#1*371@vectorNotas!31^6#1*259@vector2!47^7#1*387@vector!33^7#1*275@vectorDias!29^7#1*243@vector_numeros!17^8#1*147@vector!43^7#1*355@vector1!47^6#1*387@vectorMeses!29^8#1*243@vector3!47^8#1*387@
+37
+alu|2|alumnosViejos!1^10#1*19@alumnosAdultos!1^8#1*19@
+asc|1|ascii!3^13#5*35@
+cad|9|cadenaFinal!5^10#1*51@cadenaAux1!7^30#1*67@cadena!5^9#1*51@cadena!7^29#1*67@cadena!9^7#1*83@cadenaNueva!3^11#1*35@cadena!3^8#1*35@cadena!11^12#1*99@cadenaAux2!7^31#1*67@
+cod|1|codificar!13^7#5*114@
+com|2|compruebaA!7^6#5*66@compruebaB!7^17#5*66@
+con|2|contador!15^10#1*131@convertirEntero!17^8#5*146@
+cua|1|cuadrado!19^13#5*163@
+cub|1|cubo!19^14#5*163@
+dec|1|decodificar!13^17#5*114@
+dia|1|dia!21^7#1*179@
+eda|3|edad!1^18#9*19@edadAlumnos!1^9#1*19@edadMayor!1^11#1*19@
+eli|1|eliminarComentarios!23^7#5*194@
+enc|2|encontrado1!7^32#1*67@encontrado2!7^33#1*67@
+esc|1|esChachi!25^17#5*210@
+esp|1|esPalindroma!27^16#5*226@
+hor|1|horas!29^8#1*243@
+max|1|maximo!15^8#1*131@
+med|0|
+men|0|
+mes|1|mes!31^6#1*259@
+min|2|minutos!29^7#1*243@minimo!15^7#1*131@
+nom|1|nombre!1^14#5*19@
+not|3|notaAlta!33^7#1*275@notaBaja!33^8#1*275@nota!33^13#5*275@
+num|10|num!9^6#1*83@numero!35^10#5*291@num!37^7#1*307@num!39^7#1*323@num!5^8#1*51@numCaracteres!41^6#5*338@numEntradas!21^6#1*179@num!15^6#1*131@num2!9^8#1*83@num!11^6#1*99@
+pas|2|pasarMayuscula!25^6#5*210@pasarMayuscula!27^6#5*226@
+pi|1|pi!11^10#1*99@
+pre|1|precio!21^9#1*179@
+rai|2|raiz!37^8#1*307@raizEntero!37^9#1*307@
+res|1|resto!5^13#5*51@
+sal|2|salir!35^8#1*291@salir!1^7#1*19@
+seg|1|segundos!29^6#1*243@
+sum|3|suma!43^7#5*354@suma!39^8#1*323@suma!33^9#1*275@
+tar|1|tarjeta!21^8#1*179@
+tem|0|
+tot|1|total!15^9#1*131@
+val|1|valor!3^9#1*35@
+vec|11|vectorNotas!33^6#1*275@vectorDias!31^7#1*259@vector_numeros!19^8#1*163@vector1!45^6#1*371@vector_inverso!47^8#1*387@vector!49^9#1*403@vector2!45^7#1*371@vector!35^7#1*291@vector!47^7#1*387@vectorMeses!31^8#1*259@vector3!45^8#1*371@
 -- END TREE
 -- START TREE 2
 0

@@ -1,0 +1,26 @@
+'''
+Created on 6 Jun 2022
+
+@author: estudiante
+'''
+vectorMaxima=[]
+vectorMinima=[]
+for i in range(0, 5):
+    tempMax=int(input("Introduce la temperatura maxima del dia "+str(i+1)+": "))
+    tempMin=int(input("Introduce la temperatura minima del dia "+str(i+1)+": "))
+    vectorMaxima.append(tempMax)
+    vectorMinima.append(tempMin)
+    
+#La temperatura media de cada día
+for i in range (0, 5):
+    media=int((vectorMaxima[i]+vectorMinima[i])/2)
+    print("La temperatura media del dia "+str(i+1)+" es de "+str(media)+" grados.")
+    
+
+#Los días con menos temperatura
+menorTemp=vectorMinima[0]
+for i in range (0, 5):
+    if vectorMinima[i]<menorTemp:
+        menorTemp=vectorMinima[i]
+        dia=i
+print("El dia con menor temperatura es el dia "+str(dia)+" con una temperatura de "+str(menorTemp)+" grados.")
