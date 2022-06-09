@@ -9,8 +9,6 @@ while num<0 or num>4:
     
 pi = 4*(1-1/3+1/5-1/7)
 
-cadena=str(pi);
-cadenaNueva=""
-for i in range(0, num+2):
-    cadenaNueva=cadenaNueva+cadena[i]
-print(cadenaNueva)
+
+numero=round(pi,num)
+print(numero)
