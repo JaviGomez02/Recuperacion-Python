@@ -23,16 +23,16 @@ while vacuna!="P" and vacuna!="M" and vacuna!="A":
 if vacuna=="A":
     cadena="Debe volver a vacunarse"
     
-if vacuna=="M":
+elif vacuna=="M":
     if edad>60 and covid=="N":
         cadena="Debe volver a vacunarse"
     else:
         cadena="No debe volver a vacunarse"
 
-if vacuna=="P":
+else:
     if covid=="N":
         cadena="Debe volver a vacunarse"
-    if covid=="S" and edad>70:
+    elif covid=="S" and edad>70:
         cadena="Debe volver a vacunarse"
     else:
         cadena="No debe volver a vacunarse"
