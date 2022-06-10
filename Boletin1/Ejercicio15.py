@@ -7,9 +7,8 @@ def numCaracteres(cadena, caracter):
     contador=0
     encontrado=False
     for i in range(0, len(cadena)):
-        
-        
-
+        if caracter==cadena[i]:
+            contador+=1
     return contador
 
 print(numCaracteres("hoohafefe", "h"))

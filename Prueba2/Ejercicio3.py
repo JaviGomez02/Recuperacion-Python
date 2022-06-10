@@ -32,5 +32,26 @@ def ejercicio3(texto, longitud):
                 
     return resultado
 
+def costoTexto(costoLargo, costoCorto, texto):
+    resultado=0
+    palabra=""
+    for i in range (0, len(texto)):
+        if texto[i]!=" ":
+            palabra=palabra+texto[i]
+        else:
+            if palabra!="":
+                if palabra[len(palabra)-1]=="@":
+                    resultado=resultado+costoLargo
+                else:
+                    resultado=resultado+costoCorto
+            palabra=""
+    return resultado;
 
 print(ejercicio3("hola que hace mi socio",3))
+
+print(costoTexto(5, 2, ejercicio3("hola que hace mi socio",3)))
+
+
+
+
+
