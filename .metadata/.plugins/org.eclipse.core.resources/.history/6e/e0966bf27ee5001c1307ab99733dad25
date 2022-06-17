@@ -1,6 +1,0 @@
-'''
-Created on 6 Jun 2022
-
-@author: estudiante
-'''
-mes=int(input("Introduce un mes: "))

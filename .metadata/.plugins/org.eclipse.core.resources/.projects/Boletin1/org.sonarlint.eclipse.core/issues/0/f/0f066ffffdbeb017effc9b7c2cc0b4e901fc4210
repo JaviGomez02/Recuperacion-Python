@@ -1,5 +1,5 @@
 
-Оpython:S1542"YRename function "eliminarComentarios" to match the regular expression ^[a-z_][a-z0-9_]*$.(шо│Э8╨╒║├Т0HКRMAJORZ
+Мpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(шо│Э8Ў▌╒├Т0HыRCRITICALZ
 CODE_SMELL
-Мpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(шо│Э8Ў▌╒├Т0H╚RCRITICALZ
+Оpython:S1542"YRename function "eliminarComentarios" to match the regular expression ^[a-z_][a-z0-9_]*$.(шо│Э8╨╒║├Т0HЎRMAJORZ
 CODE_SMELL

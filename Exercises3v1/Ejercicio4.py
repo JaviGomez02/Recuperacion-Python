@@ -8,9 +8,9 @@ def dayOfWeek(dia, mes, anno):
     y=anno-a
     m=mes+12*a-2
     d=(dia+y+y/4-y/100+y/400+(31*m)/12)%7
-    return d
+    return round(d, 0)
 
-print(dayOfWeek(10, 6, 2022))
+print(dayOfWeek(13, 6, 2022))
     
     
     
