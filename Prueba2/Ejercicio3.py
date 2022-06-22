@@ -18,8 +18,8 @@ def ejercicio3(texto, longitud):
                     palabraNueva=palabraNueva+palabra[i]
                 palabraNueva=palabraNueva+"@"+" "
                 resultado=resultado+palabraNueva
-                
             palabra=""
+            
     if palabra!="":
         if len(palabra)<longitud:
                 resultado=resultado+palabra+" "
